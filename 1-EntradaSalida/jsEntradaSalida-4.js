@@ -5,6 +5,7 @@
 function mostrar()
 {
 var nombre;
+var edad;
 
 nombre= prompt ("ingrese su nombre:"); 
 
